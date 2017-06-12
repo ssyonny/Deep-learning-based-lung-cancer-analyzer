@@ -1,4 +1,8 @@
 # Deep-learning-based-lung-cancer-analyzer
+### Overview
+* Flask
+* Google Cloud App Engine
+* Keras
 
 ### Links
 * Youtube : https://www.youtube.com/miOFhnW39Og
