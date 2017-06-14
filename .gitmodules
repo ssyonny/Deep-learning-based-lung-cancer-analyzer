@@ -1,0 +1,3 @@
+[submodule "keras-flask-api"]
+	path = keras-flask-api
+	url = https://github.com/jaeoh2/keras-flask-api.git
